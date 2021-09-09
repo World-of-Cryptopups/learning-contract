@@ -1,0 +1,3 @@
+/wax/learning/build/learning/CMakeFiles/rebuild_cache.dir
+/wax/learning/build/learning/CMakeFiles/learning.dir
+/wax/learning/build/learning/CMakeFiles/edit_cache.dir
