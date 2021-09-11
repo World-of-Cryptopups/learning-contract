@@ -1,1 +1,0 @@
-/usr/local/eosio.cdt/bin/eosio-ld  CMakeFiles/learning.dir/learning.obj -o learning.wasm 
